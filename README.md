@@ -29,7 +29,7 @@ Upon analyzing the dashboard, it’s evident that the Average Daily Rate (ADR) f
 - Overall, the 57% occupancy rate provides a foundational understanding of AtliQ Grands’ performance and can serve as a basis for further revenue optimization efforts.
 
 ## Average Rating
--The average guest rating for AtliQ Grands’ properties is a commendable 3.62. This rating, derived from guest reviews and surveys, reflects the overall satisfaction of guests who have experienced our hospitality.
+- The average guest rating for AtliQ Grands’ properties is a commendable 3.62. This rating, derived from guest reviews and surveys, reflects the overall satisfaction of guests who have experienced our hospitality.
 
 - A rating of 3.62 signifies a positive guest experience, with the majority of guests expressing satisfaction with their stays. Guest ratings are a vital indicator of our service quality and the guest experience we provide.
 
